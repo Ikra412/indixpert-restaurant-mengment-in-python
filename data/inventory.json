@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "item_name": "pizza",
+        "quantity": 2,
+        "price": 200.0
+    },
+    {
+        "id": 2,
+        "item_name": "burger",
+        "quantity": 1,
+        "price": 150.0
+    },
+    {
+        "id": 3,
+        "item_name": "sorma",
+        "quantity": 3,
+        "price": 300.0
+    },
+    {
+        "id": 4,
+        "item_name": "momas",
+        "quantity": 3,
+        "price": 300.0
+    },
+    {
+        "id": 5,
+        "item_name": "dosa",
+        "quantity": 1,
+        "price": 70.0
+    },
+    {
+        "id": 6,
+        "item_name": "chowmein",
+        "quantity": 4,
+        "price": 400.0
+    }
+]

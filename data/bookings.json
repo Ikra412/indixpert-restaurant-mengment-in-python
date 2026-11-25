@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "customer_name": "ikra",
+        "table_number": 1,
+        "date": "12",
+        "time": "12:00",
+        "status": "Booked",
+        "created_date": "25-11-2026",
+        "created_time": "03:22:32 PM"
+    },
+    {
+        "id": 2,
+        "customer_name": "khushi",
+        "table_number": 2,
+        "date": "23",
+        "time": "3:00",
+        "status": "Booked",
+        "created_date": "25-11-2026",
+        "created_time": "03:28:59 PM"
+    }
+]
